@@ -1,14 +1,13 @@
-# learning-journal
+# Learning Journal
 
-## 102 Learning Journal
+## DeltaV Code 102
 
-**Hi, my name is Brody**
+# About Me
 
+Hi, my name is **Brody White** and I'm excited to start my journey in tech! I've spent the last five years in non profit fundraising in events. First with [The American Diabetes Association](/diabetes.org) then with [March of Dimes](/marchofdimes.org). I spend most of my time with my dog Winfield :dog: and my cat Jeri :cat:. I love performing arts, especially dance, and teach and take class as often as I can. I also love to spend time working out!
 
- - Here is an example for a table of contents for a Learning Journal
  
  Table of contents
- - [Mark Down Examples From Class One - 102](/MarkdownExamples.md)
- - [Mark Down Examples From Class Two - 102](/MarkdownExamples.md)
- - [Mark Down Examples From Class Three - 102](/MarkdownExamples.md)
+ - [Home](/MarkdownExamples.md)
+ - [Growth Mindset](/MarkdownExamples.md)
  
