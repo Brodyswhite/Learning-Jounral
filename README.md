@@ -5,6 +5,6 @@ Hi, my name is **Brody White** and I'm excited to start my journey in tech! I've
  
  ## Site Navigation
  
- - [Home](/MarkdownExamples.md)
+ - [Home](/README.md)
  - [Growth Mindset](/MarkdownExamples.md)
  
