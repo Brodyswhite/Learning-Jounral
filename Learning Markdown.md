@@ -7,4 +7,4 @@ You can see this page there is are a list of links at the bottom that you can ju
 ## Site Navigation
 - [Home](/README.md)
 - [Growth Mindset](/MarkdownExamples.md)
-- [Learning Markdown](/Learning Markdown.md)
+- [Learning Markdown](/LearningMarkdown.md)
