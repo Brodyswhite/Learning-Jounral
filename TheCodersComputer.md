@@ -17,6 +17,16 @@ When setting up a Mac for coding we started by using the terminal, a command lin
 - **Files**: Everything is a file. They are specified by extentions which are the letters following a file. A text file would be followed by .txt, an image might be followed by a .png, and so on.
 >> - **Hidden Files**: Hidden files are files not clear displayed on your computer outside of the terminal. All hidden files begin with a period. 
 
+### File Manipulation Commands
+
+- **mkdir**: Make Directory - ie. Create a directory. 
+- **rmdir**: Remove Directory - ie. Delete a directory.
+- **touch**: Create a blank file.
+- **cp**: Copy - ie. Copy a file or directory.
+- **mv**: Move - ie. Move a file or directory (can also be used to rename).
+- **rm**: Remove - ie. Delete a file.
+
+
 ### Site Navigation
  
  - [Home](/README.md)
