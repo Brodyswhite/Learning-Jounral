@@ -16,3 +16,10 @@ When setting up a Mac for coding we started by using the terminal, a command lin
 
 - **Files**: Everything is a file. They are specified by extentions which are the letters following a file. A text file would be followed by .txt, an image might be followed by a .png, and so on.
 >> - **Hidden Files**: Hidden files are files not clear displayed on your computer outside of the terminal. All hidden files begin with a period. 
+
+### Site Navigation
+ 
+ - [Home](/README.md)
+ - [Growth Mindset](/MarkdownExamples.md)
+ - [Learning Markdown](/LearningMarkdown.md) 
+ - [The Coders Computer](/TheCodersComputer.md)
