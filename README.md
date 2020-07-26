@@ -4,6 +4,7 @@ Hi, my name is **Brody White** and I'm excited to start my journey in tech! I've
 
 ![Family Picture](/2A4517BD-D8AE-45AB-AB3B-A52270201188.jpeg)
  
+
 ### Site Navigation
  
  - [Home](/README.md)
