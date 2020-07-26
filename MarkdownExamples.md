@@ -11,7 +11,8 @@ A Growth Mindset is a progressive thought process that best helps someone learn.
 
 
 ### Site Navigation
-
+ 
  - [Home](/README.md)
  - [Growth Mindset](/MarkdownExamples.md)
- - [Learning Markdown](/LearningMarkdown.md)
+ - [Learning Markdown](/LearningMarkdown.md) 
+ - [The Coders Computer](/TheCodersComputer.md)
