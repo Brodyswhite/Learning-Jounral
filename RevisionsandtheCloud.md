@@ -12,3 +12,11 @@ From there you can access the directory by typing "cd (your repository's name)" 
   - "git push origin master" to make sure those changes are shared with Github
  
 All your changes should now be shared between both your saved repository on your computer as well as the repository on Github!
+
+### Site Navigation
+ 
+ - [Home](/README.md)
+ - [Growth Mindset](/MarkdownExamples.md)
+ - [Learning Markdown](/LearningMarkdown.md) 
+ - [The Coders Computer](/TheCodersComputer.md) 
+ - [Revisions and the Cloud](/RevisionsandtheCloud.md)
