@@ -1,5 +1,6 @@
 # Revisions and the Cloud
 
+
 When working on our repositories we can also work on and update our sites directly from our computer. By copying your link into your terminal you can create a *clone* on your desktop. Then when updating from your computer it will automatcally update on github, and vice versa. 
 
 Start by navigating to the Github repository you want to clone. Click the green button in the top right corner labeled **"Code"** and copy the link provided for your repository. Next open your terminal and navigate to where you want the cloned copy to live. We put ours on the desktop so I typed "cd desktop" to take me there. From there you can start the cloning process by typing "git clone" a space, then pasting the link to your repository. Click enter and it should create a directory!
